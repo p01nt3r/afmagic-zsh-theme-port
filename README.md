@@ -1,5 +1,5 @@
 # afmagic-zsh-theme-port
-A port of af-magic theme from Oh-my-zsh project to Prezto project.
+A port of af-magic theme from [Oh-my-zsh](https://github.com/andyfleming/oh-my-zsh) project to [Prezto](https://github.com/sorin-ionescu/prezto) project.
 
 
 ## Install
