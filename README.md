@@ -7,5 +7,5 @@ h2. Install
 1. clone the file to your computer.
 2. move the file to: $HOME/.zprezto/modules/prompt/functions/
 3. set the theme in .zpreztorc config file like:
-        zstyle ':prezto:module:prompt' theme 'afmagic'
+```zstyle ':prezto:module:prompt' theme 'afmagic'```
 
